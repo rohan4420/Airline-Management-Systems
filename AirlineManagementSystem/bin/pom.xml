@@ -36,19 +36,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		 <!-- JSTL for JSP pages -->
-    <dependency>
-        <groupId>javax.servlet</groupId>
-    <artifactId>jstl</artifactId>
-    <version>1.2</version> 
-    </dependency>
-
-    <!-- JasperReports for reporting -->
-    <dependency>
-        <groupId>net.sf.jasperreports</groupId>
-        <artifactId>jasperreports</artifactId>
-        <version>6.17.0</version> <!-- Use the version you need -->
-    </dependency>
 	</dependencies>
 
 	<build>
